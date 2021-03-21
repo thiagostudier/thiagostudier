@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @thiagostudier
+- 👀 I’m interested in PHP, Laravel, VueJs
+- 🌱 I’m currently learning ReactJs, Node
+- 📫 thiago.studier9@gmail.com
+- http://www.thiagostudier.com.br/
+- https://www.linkedin.com/in/thiago-studier/
