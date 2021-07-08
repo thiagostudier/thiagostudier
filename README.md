@@ -11,7 +11,7 @@
 
 <div>
   <a href="https://github.com/thiagostudier">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagostudier&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagostudier&layout=compact&langs_count=16&theme=tokyonight"/>
   </a>
 </div>
 
