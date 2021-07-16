@@ -2,7 +2,7 @@
 
 💻 I’m interested in PHP, Laravel, VueJs
 
-📚 I’m currently learning ReactJs, Node
+📚 I’m currently learning GraphQL, ReactJs, Node
 
 🎮 Hobbies: games, books and movies
 
