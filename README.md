@@ -23,6 +23,8 @@
   <img align="center" alt="Thiago Studier - CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
+<br />
+
 <div>
   <a href="https://github.com/thiagostudier">
     <img height="190em" src="https://github-readme-stats.vercel.app/api?username=thiagostudier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
