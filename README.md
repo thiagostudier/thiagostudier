@@ -17,7 +17,8 @@
 
 <div>
   <a href="https://github.com/thiagostudier">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagostudier&layout=compact&langs_count=16&theme=tokyonight"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagostudier&layout=compact&langs_count=16&theme=dracula"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagostudier&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 
