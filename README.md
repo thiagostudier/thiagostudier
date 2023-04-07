@@ -1,16 +1,12 @@
 👋 Hi, I’m @thiagostudier
 
-💻 I’m interested in PHP, Laravel, VueJs
+💻 I’m interested in Vuejs and Javascript
 
-📚 I’m currently learning GraphQL, ReactJs, Node
-
-🎮 Hobbies: games, books and movies
-
-🚀 http://www.thiagostudier.com.br/
-
-🔥 https://www.linkedin.com/in/thiago-studier/
+🚀 https://www.linkedin.com/in/thiago-studier/
 
 📫 thiago.studier9@gmail.com
+
+🎮 Hobbies: games, books and movies
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago Studier - PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
